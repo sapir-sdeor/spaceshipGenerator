@@ -1,0 +1,18 @@
+{
+    "name": "avrahamy-mesh-editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:76a1170f856024664b33ce5e7f490396"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

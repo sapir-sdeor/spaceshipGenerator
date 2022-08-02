@@ -1,0 +1,22 @@
+{
+    "name": "avrahamy-editorgadgets-editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:76a1170f856024664b33ce5e7f490396",
+        "GUID:a1a3c90cbc09b174a8524c0b3de27bbf",
+        "GUID:a1f3c5e4cf7b88b4d97b658fe59e61e2",
+        "GUID:0a0471484b079be408cb3a0d7fe94736",
+        "GUID:68765d262e2128e4ab49c983f3411946"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
